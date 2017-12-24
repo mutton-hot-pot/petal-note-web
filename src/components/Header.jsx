@@ -1,7 +1,5 @@
 import styled from "styled-components";
 import React, { PureComponent } from "react";
-
-import icon from "../resources/assets/pac-man.svg";
 import media from "../utils/mediaHandler.js";
 
 const HeaderContainer = styled.div`
@@ -10,10 +8,6 @@ const HeaderContainer = styled.div`
   flex-wrap: wrap;
   align-items: center;
   margin: auto;
-`;
-const Icon = styled.img`
-  max-width: 8rem;
-  margin: 1rem auto;
 `;
 
 const Title = styled.span`
@@ -30,8 +24,8 @@ class Header extends PureComponent {
   render() {
     return (
       <HeaderContainer>
-        <Icon src={icon} />
-        <Title>the starter project bootstrapped with Create React App</Title>
+        PETAL
+        <Title>the Petal note bootstrapped with Create React App</Title>
       </HeaderContainer>
     );
   }

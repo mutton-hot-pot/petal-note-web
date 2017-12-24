@@ -18,8 +18,7 @@
     "react-scripts": "1.0.10",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
-    "styled-components": "^2.1.1",
-    "w3-css": "^4.0.4"
+    "styled-components": "^2.1.1"
   },
   "scripts": {
     "flow": "flow",

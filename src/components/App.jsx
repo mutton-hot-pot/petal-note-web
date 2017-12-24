@@ -17,6 +17,7 @@ const AppContainer = styled.div`
   height: auto;
   min-width: 300px;
   margin: auto;
+  padding: 0.5rem;
   background-color: #f2f2f2;
 
   ${media.tablet`padding: 1rem`};
