@@ -1,0 +1,12 @@
+{
+    "title":"the starter project bootstrapped with Create React App",
+    "applications":{
+        "facebook":"facebook",
+        "youtube":"youtube",
+        "skype":"skype",
+        "line":"line",
+        "twitter":"twitter"
+    },
+    "footer":"You are using a device with Width less than 768 px"
+
+}

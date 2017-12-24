@@ -1,0 +1,16 @@
+[include]
+
+[ignore]
+.*/node_modules
+.*/public
+.*/.vscode
+.*/build
+
+
+[libs]
+./flow-typed/npm
+
+
+[options]
+
+[lints]
